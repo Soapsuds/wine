@@ -31,7 +31,7 @@
 
 WINE_DEFAULT_DEBUG_CHANNEL(hid);
 
-#define USAGE_MAX 10
+#define USAGE_MAX 90
 
 /* Flags that are defined in the document
    "Device Class Definition for Human Interface Devices" */
